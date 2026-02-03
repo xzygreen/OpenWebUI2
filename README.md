@@ -3,7 +3,7 @@
     <img src="./static/favicon.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h1 align="center">Open WebUI (OVINC-CN)</h1>
+  <h1 align="center">Open WebUI</h1>
 
   <p align="center">
     <strong>基于 Open WebUI 的增强版：集成计费、支付与企业级用户管理</strong>
@@ -24,8 +24,7 @@
   <br />
 </div>
 
-> **本项目已停止维护。** 开发者已放弃对本项目的开发与支持，不再提供任何更新或问题修复。如有需要，请自行 Fork 本仓库进行修改和维护。
->
+
 > 本项目是 [Open WebUI](https://github.com/open-webui/open-webui) 的定制分支，与官方团队无关联。
 
 ## 📖 简介
