@@ -75,7 +75,7 @@
 
 ```bash
 # 拉取最新镜像（请将 <版本号> 替换为具体版本，如 v0.3.0）
-docker pull ghcr.io/ovinc-cn/openwebui:<版本号>
+docker pull ghcr.io/xzygreen/openwebui2:<版本号>-slim
 
 # 启动容器 (示例)
 docker run -d -p 3000:8080 \
@@ -83,10 +83,10 @@ docker run -d -p 3000:8080 \
   -v open-webui:/app/backend/data \
   --name open-webui \
   --restart always \
-  ghcr.io/ovinc-cn/openwebui:<版本号>
+  ghcr.io/xzygreen/openwebui2:<版本号>-slim
 ```
 
-查看最新版本：[Releases](https://github.com/ovinc-cn/openwebui/releases/latest)
+查看最新版本：[Releases](https://github.com/xzygreen/OpenWebUI2/releases)
 
 ## ⚙️ 进阶配置
 
